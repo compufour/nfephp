@@ -139,10 +139,10 @@ ATENÇÃO!!! Vários endereços destes webservices ainda não foram totalmente
   <UF>
     <sigla>ES</sigla>
     <homologacao>
-      <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100"></NfeConsultaQR>
+      <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100">http://homologacao.sefaz.es.gov.br/ConsultaNFCe/qrcode.aspx</NfeConsultaQR>
     </homologacao>
     <producao>
-      <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100"></NfeConsultaQR>
+        <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100">http://app.sefaz.es.gov.br/ConsultaNFCe/qrcode.aspx</NfeConsultaQR>
     </producao>
   </UF>
   <UF>
