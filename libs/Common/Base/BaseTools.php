@@ -621,7 +621,7 @@ class BaseTools
             'MT'=>'MT',
             'PA'=>'SVRS',
             'PB'=>'SVRS',
-            'PE'=>'PE',
+            'PE'=>'SVRS',
             'PI'=>'SVRS',
             'PR'=>'PR',
             'RJ'=>'SVRS',
